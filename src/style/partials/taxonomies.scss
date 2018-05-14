@@ -1,26 +1,26 @@
-body {
- max-width: 1920px;
-  min-width: 320px;
-  margin: 0 auto;
-  @include fonts(18px, $font_color_light, 400, $font-regular);
-}
-
-p {
-  @include fonts(15px, $font_color_light, 100, $font-regular);
-}
-
-h1 {
-  @include fonts(36px, $font_color_dark, 600, "Comic Sans");
-}
-
-h2 {
-  @include fonts(28px, $font_color_dark, 500, "Comic Sans");
-}
-
-h3 {
-  @include fonts(24px, $font_color_light, 400, "Comic Sans");
-}
-//
-//ul li{
-//  @include fonts(20px, $font_color_light, 400, "Comic Sans");
+//body {
+// max-width: 1920px;
+//  min-width: 320px;
+//  margin: 0 auto;
+//  @include fonts(18px, $font_color_light, 400, $font-regular);
 //}
+//
+//p {
+//  @include fonts(15px, $font_color_light, 100, $font-regular);
+//}
+//
+//h1 {
+//  @include fonts(36px, $font_color_dark, 600, "Comic Sans");
+//}
+//
+//h2 {
+//  @include fonts(28px, $font_color_dark, 500, "Comic Sans");
+//}
+//
+//h3 {
+//  @include fonts(24px, $font_color_light, 400, "Comic Sans");
+//}
+////
+////ul li{
+////  @include fonts(20px, $font_color_light, 400, "Comic Sans");
+////}
